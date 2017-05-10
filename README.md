@@ -3,6 +3,7 @@ Zadania a projekty VUT FIT
 
 # 1BIT
 Prvý semester:
+-------------------------------------------------------------------------------------------------------
 	Predmet:			Názov projektu:					Získané body:
 	IZP 1.projekt	- 	Práca s textom					4/5
 	IZP 2.projekt	- 	Iteračné výpočty				6/7
@@ -11,5 +12,6 @@ Prvý semester:
 	IEL projekt		- 	Semestrálny projekt				11/12
 	
 Druhý semester:	
+-------------------------------------------------------------------------------------------------------
 	Predmet:			Názov projektu:					Získané body:
 	
