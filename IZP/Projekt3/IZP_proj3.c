@@ -6,7 +6,6 @@
   * 			metodu nejvzdálenějšího souseda (angl. complete linkage).
   */
 
-
 /**
   *  Systémové hlavičkové súbory
   */
