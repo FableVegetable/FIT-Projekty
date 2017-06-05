@@ -19,4 +19,4 @@ Druhý semester:
 	ITY 2.projekt	-	Sadzba matematických výrazov		15/15
 	ITY 3.projekt	-	Tabuľky a obrázky			15/15
 	ITY 4.projekt	-	Bibliografické citácie			14/15
-	ITY 5.projekt	-	Prezentácia				
+	ITY 5.projekt	-	Prezentácia				14/15			
