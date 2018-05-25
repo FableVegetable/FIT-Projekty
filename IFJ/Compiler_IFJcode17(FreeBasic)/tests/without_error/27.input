@@ -1,0 +1,4 @@
+
+scope
+	print 0-7;
+end scope

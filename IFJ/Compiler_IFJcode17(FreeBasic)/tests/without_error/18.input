@@ -1,0 +1,4 @@
+
+scope
+	print !"AhojSve'te\\\034";
+end scope
