@@ -36,6 +36,19 @@ Tretí semester:
 	INI 4.cast	-	Service Design Package				8/10
 	INI 5.cast	-	Service Evaluation Report, Request for Change	10/10
 	
-
 Štvrtý semester:
 -------------------------------------------------------------------------------------------------------	
+	IDS projekt	-	SQL skript (Tables, Triggers, Views)		19/19		PL/SQL
+	IPK 1.projekt	-	Client-server app to get user info		20/20		C
+	IPK 2.projekt	-	DHCP Starvation Attack				15/20		C
+	IPP 1.cast	-	Syntaktický analyzátor jazyka IPPcode18		7/6		PHP
+	IPP 2.cast	-	Interpret strojového jazyka IPPcode18		12/14		Python
+	IZG projekt	-	Implementácia pipeline (vykresľov.reťazec)	18/18		C
+	IJA projekt	-	Blokový editor					94/94		Java
+	ITW 1.projekt	-	Štýl CSS					20/20		HTML, CSS
+	ITW 2.projekt	-	Web imaginárnej stavebnej firmy			30/30		HTML, CSS, JavaScript
+	
+	
+	
+	
+	
