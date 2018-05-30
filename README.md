@@ -46,29 +46,7 @@ Tretí semester:
 	IZG projekt	-	Implementácia pipeline (vykresľov.reťazec)	18/18		C
 	IJA projekt	-	Blokový editor					94/94		Java
 	ITW 1.projekt	-	Štýl CSS					20/20		HTML, CSS
-	ITW 2.projekt	-							30/30		HTML, CSS, JavaScript
+	ITW 2.projekt	-	[Web imaginárnej stavebnej firmy](http://www.stud.fit.vutbr.cz/~xzubri00/index.html "Web imaginárnej stavebnej firmy")						30/30		HTML, CSS, JavaScript
 	
-	
-	[I'm an inline-style link](https://www.google.com)
-
-[Web imaginárnej stavebnej firmy](http://www.stud.fit.vutbr.cz/~xzubri00/index.html "Web imaginárnej stavebnej firmy")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
 	
 	
