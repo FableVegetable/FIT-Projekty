@@ -46,13 +46,5 @@ Tretí semester:
 	IZG projekt	-	Implementácia pipeline (vykresľov.reťazec)	18/18		C
 	IJA projekt	-	Blokový editor					94/94		Java
 	ITW 1.projekt	-	Štýl CSS					20/20		HTML, CSS
-	ITW 2.projekt	-	
-	[Web imaginárnej stavebnej firmy](http://www.stud.fit.vutbr.cz/~xzubri00/index.html "Web") 					
-	30/30		HTML, CSS, JavaScript
-	
-	[Web imaginárnej stavebnej firmy](http://www.stud.fit.vutbr.cz/~xzubri00/index.html "Web")
-	
-	[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-	
-	
-	
+	ITW 2.projekt	-	Web imaginárnej stavebnej firmy 		30/30		HTML, CSS, JavaScript
+		
