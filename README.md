@@ -50,5 +50,9 @@ Tretí semester:
 	[Web imaginárnej stavebnej firmy](http://www.stud.fit.vutbr.cz/~xzubri00/index.html "Web") 					
 	30/30		HTML, CSS, JavaScript
 	
+	[Web imaginárnej stavebnej firmy](http://www.stud.fit.vutbr.cz/~xzubri00/index.html "Web")
+	
+	[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+	
 	
 	
